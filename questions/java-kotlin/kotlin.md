@@ -28,7 +28,7 @@ Inline fun / val
 
 <details>
 <summary>Система типов</summary>
-<img alt="Alt text" src="res/type-system.png" style="height:250px"/>
+<img alt="Alt text" src="res/type-system.png" style="height:600px"/>
 </details>
 
 --------------------------------------------------------------------
